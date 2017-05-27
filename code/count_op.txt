@@ -1,0 +1,11 @@
+target_id,submission_month,count
+9,Mar,1
+9,Nov,4
+9,Feb,1
+9,Dec,3
+9,Oct,30
+12,Nov,1
+12,Oct,23
+12,Mar,10
+12,Sep,9
+12,Aug,20
